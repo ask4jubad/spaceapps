@@ -7,7 +7,7 @@ Folder data/Tallinn contains example of input data.
 
 ## Team Starships
 slavikkom - [Viacheslav Komisarenko](https://bigdata.cs.ut.ee/viacheslav-komisarenko-2019) <br>
-ask4jubad - [Jubril Gbolahan ADIGUN](linktr.ee/ask4jubad) <br>
+ask4jubad - [Jubril Gbolahan ADIGUN](https://linktr.ee/ask4jubad) <br>
 karasov - [Oleksandr Karasov](https://researchportal.helsinki.fi/en/persons/oleksandr-karasov) <br>
 burdun - [Iuliia Burdun](https://research.aalto.fi/en/persons/iuliia-burdun)<br>
 myskovik - [Viktor Mysko](https://www.linkedin.com/in/viktor-mysko-1b8528b8/?originalSubdomain=ua)
